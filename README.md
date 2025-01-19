@@ -73,3 +73,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 
 
+# live link https://diabetes-prediction-ml-model.onrender.com/
